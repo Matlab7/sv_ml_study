@@ -11,8 +11,8 @@ SV Machine Learning study 공용 저장소입니다
 ### process
 1. 매주 사전에 정해진 문제(Kaggle/Dacon competition)을 guideline에 따라 풉니다.
 2. 서로의 코드와 점수를 공유합니다
-3. 문제를 풀면서 생긴 의문점, 추가로 공부했던 topic을 1개씩 준비해옵니다
-4. 준비해온 서로의 topic을 공유합니다
+3. 문제를 풀면서 생긴 의문점, 추가로 공부했던 topic을 1개씩 준비하고 공유합니다
+4. 미팅 주관자는 다음 주 숙제에 대한 브리핑을 진행합니다
 5. 다음 주 담당자를 선정하고 마칩니다 
 <br><br>
 # Schedule
