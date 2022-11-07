@@ -22,4 +22,4 @@ SV Machine Learning study 공용 저장소입니다
 
 [02주차-10-31] **Data Preprocessing & Basic ML 2** (titanic spaceship/Kaggle)
 
-[03주차-11-??]
+[03주차-11-07] **Data Preprocessing & Basic ML 2** (Pima indian diabetes/Kaggle)
